@@ -1,0 +1,1 @@
+# indeck2class
